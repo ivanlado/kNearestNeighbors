@@ -1,10 +1,10 @@
 # kNearestNeighbors
 Several versions for kNearestNeighbors algorithm
 
-##1st version
+## 1st version
 The basic kNearestNeighbors algorithm
 
-##2nd version (soon)
+## 2nd version (soon)
 The kNearestNeighbors algorithm is improved:
 
 *
